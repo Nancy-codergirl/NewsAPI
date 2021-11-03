@@ -33,6 +33,6 @@ This is a flask application consuming API to get news sources and retrieve news 
 ### reach out to me @Nancy@gmail.com
 
 ## Application Design :link:
-* see [APPLICATION DESIGN](https://www.figma.com/file/rNJloBqCKJgTUT4xSbQwB9/Newsapi?node-id=3%3A67) FILE
+* see [APPLICATION DESIGN] FILE
 ## License :link:
-* see
+* This project has the MIT license and Copyright (c) 2021 Nancy-codergirl.
