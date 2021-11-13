@@ -32,7 +32,5 @@ This is a flask application consuming API to get news sources and retrieve news 
 # Contact-info
 ### reach out to me @Nancy@gmail.com
 
-## Application Design :link:
-* see [APPLICATION DESIGN] FILE
 ## License :link:
 * This project has the MIT license and Copyright (c) 2021 Nancy-codergirl.
